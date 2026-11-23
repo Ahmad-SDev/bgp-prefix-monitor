@@ -1,0 +1,11 @@
+interval_seconds = 300
+# discord_webhook = "https://discord.com/api/webhooks/..."
+
+[[prefix]]
+prefix = "193.0.0.0/21"
+origins = [3333]
+min_visibility = 0.9
+
+[[prefix]]
+prefix = "2001:67c:2e8::/48"
+origins = [3333]
