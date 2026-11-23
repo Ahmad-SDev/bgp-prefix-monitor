@@ -1,7 +1,5 @@
 # bgp-prefix-monitor
 
-[![CI](https://github.com/Ahmad-SDev/bgp-prefix-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/Ahmad-SDev/bgp-prefix-monitor/actions/workflows/ci.yml)
-
 Watches your BGP prefixes through [RIPEstat](https://stat.ripe.net/) and tells you when something is wrong:
 
 - **Not announced**: no RIS peer sees the prefix anymore
